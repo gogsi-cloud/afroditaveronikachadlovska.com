@@ -1,0 +1,8 @@
+/* SITE */
+Name: Afrodita - Veronika Chadlovska
+Location: Васил Главинов 3, Градски ѕид блок 10, 1000 Скопје
+Language: Macedonian (mk)
+Standards: HTML5, CSS3, WCAG 2.2 AA
+Components: Astro (static), self-hosted Cormorant Garamond & Manrope
+Instagram: https://www.instagram.com/afrodita_veronikachadlovska/
+Facebook: https://www.facebook.com/afrodita.veronika/
